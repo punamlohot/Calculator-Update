@@ -1,0 +1,73 @@
+#calc {
+    width: 100%;
+    Height: 100px;
+    text-align: right;
+}
+
+#subInput {
+    width: 100%;
+    Height: 150px;
+    text-align: right;
+    background-color: white;
+}
+
+tr,
+td,
+input {
+    text-align: center;
+    border: 1px solid black;
+    width: 200px;
+    height: 50px;
+}
+
+.btn {
+    text-align: center;
+    border: 1px solid black;
+    width: 200px;
+    height: 50px;
+    background-color: white;
+    color: black;
+}
+
+.floatinghistory h1 {
+    text-align: center;
+    color:white;
+}
+.right{
+
+    position: relative;
+}
+.floatinghistory {
+    border: 4px solid #17a2b8;
+    height: 680px;
+    width: 400px;
+    margin-top: 50px;
+	background-color:black;
+	margin-left:75%;
+}
+
+#history {
+    padding: 5px;
+	margin-top:2px;
+	margin-left:10px;
+    color:white;
+}
+
+.left
+{
+	position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50% , -50%);
+}
+ 
+#btnn{
+
+width:60px;
+border-radius: 10px;
+text-align: center;
+margin-left: 140px;
+background-color: white;
+color:black;
+
+}
